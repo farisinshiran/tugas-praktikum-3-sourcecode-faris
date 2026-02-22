@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/0. PERKULIAHAN/SMT. 4/PCD/PCD_Prak3/KonversiRuangWarna/build/CMakeFiles/main.dir
+C:/Users/Lenovo/Documents/0. PERKULIAHAN/SMT. 4/PCD/PCD_Prak3/KonversiRuangWarna/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/0. PERKULIAHAN/SMT. 4/PCD/PCD_Prak3/KonversiRuangWarna/build/CMakeFiles/rebuild_cache.dir
