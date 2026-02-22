@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/0. PERKULIAHAN/SMT. 4/PCD/Tugas_PCD_Prak3/Splitting/build/CMakeFiles/main2.dir
+C:/Users/Lenovo/Documents/0. PERKULIAHAN/SMT. 4/PCD/Tugas_PCD_Prak3/Splitting/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/0. PERKULIAHAN/SMT. 4/PCD/Tugas_PCD_Prak3/Splitting/build/CMakeFiles/rebuild_cache.dir
